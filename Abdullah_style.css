@@ -1,0 +1,48 @@
+h2 {
+  color: black;
+  margin: 10px;
+}
+
+div.container {
+  margin:10px;
+  padding:13;
+}
+body {
+   font-family: 'Roboto', sans-serif;
+}
+
+img.container{
+  align-content: center;
+}
+.conatiner{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+#Funfacts {
+  background-color: purple;
+    margin:10px;
+   }
+
+#Artists  {
+  background-color:purple;
+  margin:10px;
+   }
+
+#SherlockHolmesPicture {
+  background-color:purple;
+  }
+
+#AboutMe {
+  background-color:purple;
+    margin:10px;
+    }
+
+#AboutMe {
+   font-size: 26px;
+     margin:10px;
+      }
+#title {
+  text-align: center;
+  font-family: 'Roboto', sans-serif
+  }
